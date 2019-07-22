@@ -1,17 +1,15 @@
 ```yaml
-Name of QuantLet: theil
+Name of QuantLet: Data Collection
 
-Published in: Statistical Tools for Finance and Insurance
+Published in: Statistical Tools for Finance and Insurance ??????
 
-Description: 'Converts the given time series into time series of Theil index. A function required by STFdmm11.R.'
+Description: 'Retrieval of cryptocurrncy data via API call.'
 
-See also: STFdmm11, STFdmm12, STFdmm13, STFdmm14, STFdmm15, bmlp, manh, mst, ultra, umlp
+Keywords: cryptocurrency, data, retrieval, API call
 
-Keywords: time-series, index, economy, distribution, financial
+Author: Georg Velev, Iliyana Pekova
 
-Author: Janusz Miskiewicz, Awdesch Melzer
-
-Submitted: Wed, November 21 2012 by Dedy Dwi Prastyo
+Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 
 ```
 
