@@ -1,3 +1,4 @@
+```yaml
 Name of QuantLet: theil
 
 Published in: Statistical Tools for Finance and Insurance
@@ -11,3 +12,6 @@ Keywords: time-series, index, economy, distribution, financial
 Author: Janusz Miskiewicz, Awdesch Melzer
 
 Submitted: Wed, November 21 2012 by Dedy Dwi Prastyo
+
+```
+
