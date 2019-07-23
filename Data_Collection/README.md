@@ -9,6 +9,8 @@ Author: Georg Velev, Iliyana Pekova
 
 Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 
+Output:    'Overall Information of the collected data in .PNG format'
+
 ```
 
 ### Python Code
