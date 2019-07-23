@@ -33,3 +33,5 @@ def get_data_spec(coin, date, time_period):
     r = requests.get(url)
     ipdata = r.json()
     return ipdata
+
+![Picture1](BCS_ARM.png)
