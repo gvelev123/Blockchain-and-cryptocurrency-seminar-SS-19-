@@ -1,11 +1,11 @@
-Name of Quantlet:    'Data_Collection'
+Name of QuantLet:   Data Collection
 
-Description:         'Definition of function to retrieve the cryptocurrency data of the four coins BitCoin, LiteCoin, Ethereum and Dash
-                      via API call.'
+Description:        'Retrieval of cryptocurrncy data via API call.'
 
-Keywords:            'cryptocurrency, data, retrieval, analysis, API call'
-Author[New]:          Georg Velev, Iliyana Pekova
+Keywords:           cryptocurrency, data, retrieval, analysis, API call
 
-Submitted:           'Thu, July 25 2019, Georg Velev, Iliyana Pekova'
+Author:             Georg Velev, Iliyana Pekova
 
-Output:              'Overall Information of the collected data in .PNG format'
+Submitted:          Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+
+Output:             'Overall Information of the collected data in .PNG format'
