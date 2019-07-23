@@ -8,4 +8,4 @@ Author[New]:          Georg Velev, Iliyana Pekova
 
 Submitted:           'Thu, July 25 2019, Georg Velev, Iliyana Pekova'
 
-Output:              'Boxplot of Nile in .pdf format'
+Output:              'Overall Information of the collected data in .PNG format'
