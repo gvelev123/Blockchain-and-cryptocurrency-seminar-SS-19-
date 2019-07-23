@@ -1,0 +1,12 @@
+Name of Quantlet:    'Data_Collection'
+
+Description:         'Definition of function to retrieve the cryptocurrency data of the four coins BitCoin, LiteCoin, Ethereum and Dash
+                      via API call.'
+
+Keywords:            'boxplot, Nile, data visualization, outlier detection, histogram'
+
+Author[New]:          Gunawan
+
+Submitted:           '2016-01-28, Christoph Schult'
+
+Output:              'Boxplot of Nile in .pdf format'
