@@ -6,6 +6,6 @@ Description:         'Definition of function to retrieve the cryptocurrency data
 Keywords:            'cryptocurrency, data, retrieval, analysis, API call'
 Author[New]:          Georg Velev, Iliyana Pekova
 
-Submitted:           '2016-01-28, Christoph Schult'
+Submitted:           'Thu, July 25 2019, Georg Velev, Iliyana Pekova'
 
 Output:              'Boxplot of Nile in .pdf format'
