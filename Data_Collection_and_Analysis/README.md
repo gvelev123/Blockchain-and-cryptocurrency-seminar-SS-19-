@@ -57,5 +57,24 @@ def compute_Hourly_Returns(data):
     data["Hourly_returns"]=data["Average_hourly_price"].divide(data["Average_hourly_price"].shift())-1
     data= data.iloc[1:] 
     return data
+
+#Set the start and the end date:
+start_unix=time.mktime(datetime.datetime.strptime("30/03/2017", "%d/%m/%Y").timetuple())
+end_unix=time.mktime(datetime.datetime.strptime("20/07/2019", "%d/%m/%Y").timetuple())
+
+#Call the functions to retrieve the cryptocurrency data:
+bitcoin=compute_Hourly_Returns(get_df_spec('histohour',"BTC", start_unix, end_unix))
+ethereum=compute_Hourly_Returns(get_df_spec('histohour',"ETH", start_unix, end_unix))
+litecoin=compute_Hourly_Returns(get_df_spec('histohour',"LTC", start_unix, end_unix))
+dash=compute_Hourly_Returns(get_df_spec('histohour',"DASH", start_unix, end_unix))  
+
+#Print overall information about the collected cryptocurrency data:
+print("The variables contained in each of the datasets are the following: ")
+print(bitcoin.columns,"\n")
+print("The shape of the data: ","\n")
+print("Each of datasets consists of: ",bitcoin.shape[1], " columns.", "\n")
+print("Each of datasets consists of: ",bitcoin.shape[0], " rows.","\n")
+print("The following overview shows the type of each feature in the datasets: ","\n")
+print(bitcoin.info())
 ```
 ![Picture1](Stationary.png)
