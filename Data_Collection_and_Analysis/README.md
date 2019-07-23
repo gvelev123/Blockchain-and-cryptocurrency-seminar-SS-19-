@@ -77,4 +77,4 @@ print("Each of datasets consists of: ",bitcoin.shape[0], " rows.","\n")
 print("The following overview shows the type of each feature in the datasets: ","\n")
 print(bitcoin.info())
 ```
-![Picture1](Stationary.png)
+![Picture1](Overall_information_about_the_data.png)
