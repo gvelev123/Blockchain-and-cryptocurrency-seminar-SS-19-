@@ -14,15 +14,7 @@ Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 ### Python Code
 ```python
 #Custom Imports
-import requests, pandas as pd, time, datetime, seaborn as sns, matplotlib.pyplot as plt, numpy import array, keras, numpy as np
-from keras import optimizers
-from keras.wrappers.scikit_learn import KerasClassifier
-from keras.models import Sequential, Model
-from keras.layers import Dense, Dropout, Activation, Flatten, Input, Bidirectional, RepeatVector, TimeDistributed
-from keras.utils import np_utils
-from keras.callbacks import EarlyStopping
-from sklearn.model_selection import train_test_split
-from keras.layers import LSTM
+import requests, pandas as pd, time, datetime, numpy import array, numpy as np
 
 #This function establishes a request to the online plattform BitFinex:
 def get_data_spec(coin, date, time_period):
