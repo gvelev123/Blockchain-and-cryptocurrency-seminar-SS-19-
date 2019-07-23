@@ -1,5 +1,5 @@
 ```yaml
-Name of QuantLet: Data Collection and Data Analysis
+Name of QuantLet: Data Collection
 
 Description: 'Retrieval of cryptocurrncy data via API call.'
 
