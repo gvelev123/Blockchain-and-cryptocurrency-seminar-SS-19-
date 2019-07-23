@@ -34,4 +34,4 @@ def get_data_spec(coin, date, time_period):
     ipdata = r.json()
     return ipdata
 
-![Picture1](BCS_ARM.png)
+![Picture1](Stationary.png)
