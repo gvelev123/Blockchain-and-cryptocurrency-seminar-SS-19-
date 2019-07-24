@@ -5,5 +5,5 @@
 ```yaml
 Data:                             Hourly Returns of the Cryptocurrencies Bitcoin, Litecoin, Ethereum and Dash
 Machine Learning Algorithm:       Long short-term memory (LSTM) Neural Networks
-Portfolio Optimization Technique: using CVar
+Portfolio Optimization Technique: using CVaR
 ```
