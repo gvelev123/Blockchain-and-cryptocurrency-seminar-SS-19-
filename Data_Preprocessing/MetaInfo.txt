@@ -1,1 +1,11 @@
+Name of QuantLet:   Data Preprocessing
 
+Description:        'Preprocessing the cryptocurrency data in such a way that it fits the requirements of LSTM'
+
+Keywords:           cryptocurrency, data, preprocessing
+
+Author:             Georg Velev, Iliyana Pekova
+
+Submitted:          Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+
+Output:             'Split_sequence in .PNG format'
