@@ -11,10 +11,10 @@ Author: Georg Velev, Iliyana Pekova
 
 Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 
-Output: 'combinations in .png format'
+Output: 'combis in .png format'
 ```
 
-![Picture1](combinations.png)
+![Picture1](combis.png)
 
 
 ### Python Code
