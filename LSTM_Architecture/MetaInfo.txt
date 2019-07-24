@@ -1,1 +1,11 @@
+Name of QuantLet:   Long short-term memory (LSTM) Neural Network: Architecture
 
+Description:        'Definition of the architecture of the LSTM that is used for the time-series prediction of the hourly returns.'
+
+Keywords:           LSTM, architecture, time-series, prediction
+
+Author:             Georg Velev, Iliyana Pekova
+
+Submitted:          Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+
+Output:             'Architecture_LSTM in .PNG format'
