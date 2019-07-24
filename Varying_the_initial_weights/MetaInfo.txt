@@ -1,0 +1,13 @@
+```yaml
+Name of QuantLet:  Varying the initial weights
+
+Description:      'Varying all combinations of initial weights to determine which one leads to a minimal CVaR'
+
+Keywords:          initial weights, combinations, minimal CVaR
+
+Author:            Georg Velev, Iliyana Pekova
+
+Submitted:         Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+
+Output:            'initial_weights in .PNG format'
+```
