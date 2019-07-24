@@ -1,0 +1,11 @@
+Name of QuantLet:     Finding all combinations of initial weights
+
+Description:          'Finding all possible combinations of initial weights for a four-cryptocurrencies-portfolio'
+
+Keywords:             initial weights, combinations
+
+Author:               Georg Velev, Iliyana Pekova
+
+Submitted:            Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+
+Output:               'combis in .png format'
