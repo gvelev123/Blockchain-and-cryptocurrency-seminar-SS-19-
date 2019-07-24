@@ -1,11 +1,11 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ```yaml
-Name of QuantLet: Plot CVaR convergence
+Name of QuantLet: Finding all combinations of initial weights
 
-Description: 'Plotting the CVaR for all sets of different initial weights and see it converging'
+Description: 'Finding all possible combinations of initial weights for a four-cryptocurrencies-portfolio'
 
-Keywords: plot, CVaR, convergence, all sets of initial weights
+Keywords: initial weights, combinations
 
 Author: Georg Velev, Iliyana Pekova
 
