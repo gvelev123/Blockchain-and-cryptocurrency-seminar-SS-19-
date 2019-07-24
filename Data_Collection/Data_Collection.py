@@ -1,8 +1,7 @@
 #Custom Imports
 import requests, pandas as pd, time, datetime, numpy import array, numpy as np
 
-#Source
-https://blog.cryptocompare.com/cryptocompare-api-quick-start-guide-f7abbd20d260
+#Source: https://blog.cryptocompare.com/cryptocompare-api-quick-start-guide-f7abbd20d260
     
 #This function establishes a request to the online plattform BitFinex:
 def get_data_spec(coin, date, time_period):
