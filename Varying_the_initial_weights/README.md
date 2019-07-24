@@ -14,7 +14,7 @@ Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 
 Output: 'initial_weights in .PNG format'
 
-![Picture1](initial_weights.PNG)
+![Picture](initial_weights.PNG)
 
 ### MATLAB code
 ```matlab
