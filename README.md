@@ -3,7 +3,7 @@
 # Artificial Intelligence Advisory in Finance
 
 ```yaml
-Data:                             Hourly Returns of the Cryptocurrencies Bitcoin, Litecoin, Ethereum and Dash <br/>
-Machine Learning Algorithm:       Long short-term memory (LSTM) Neural Networks <br/>
-Portfolio Optimization Technique: using CVar.
+Data:                             Hourly Returns of the Cryptocurrencies Bitcoin, Litecoin, Ethereum and Dash
+Machine Learning Algorithm:       Long short-term memory (LSTM) Neural Networks
+Portfolio Optimization Technique: using CVar
 ```
