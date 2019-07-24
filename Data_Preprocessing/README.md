@@ -18,6 +18,7 @@ Output: 'Split_sequence in .PNG format'
 
 ![Picture1](Split_sequence.PNG)
 
+
 ### Python Code
 ```python
 import numpy as np
