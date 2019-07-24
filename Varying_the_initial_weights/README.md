@@ -13,8 +13,10 @@ Author: Georg Velev, Iliyana Pekova
 Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 
 Output: 'initial_weights in .PNG format'
+```
 
-![Picture](initial_weights.PNG)
+![Picture1](initial_weights.PNG)
+
 
 ### MATLAB code
 ```matlab
@@ -80,5 +82,4 @@ end
 %pack the matrix mat(already  filled with results) into a dataset with the
 %headers defined above
 ds = dataset({mat,header{:}})
-
 ```
