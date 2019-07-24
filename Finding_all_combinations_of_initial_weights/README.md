@@ -27,8 +27,7 @@ Output: 'combinations in .PNG format'
 # index - next location in array 
 # num - given number 
 # reducedNum - reduced number 
-def findCombinationsUtil(arr, index, num, 
-							reducedNum): 
+def findCombinationsUtil(arr, index, num, reducedNum): 
 
 	# Base condition 
 	if (reducedNum < 0): 
@@ -57,8 +56,7 @@ def findCombinationsUtil(arr, index, num,
 
 		# call recursively with 
 		# reduced number 
-		findCombinationsUtil(arr, index + 1, num, 
-								reducedNum - k); 
+		findCombinationsUtil(arr, index + 1, num, reducedNum - k); 
 
 # Function to find out all 
 # combinations of positive numbers 
