@@ -13,6 +13,9 @@ Output:    'Overall Information of the collected data in .PNG format'
 
 ```
 
+![Picture1](Overall_information_about_the_data.PNG)
+
+
 ### Python Code
 ```python
 #Custom Imports
@@ -71,4 +74,5 @@ print("Each of datasets consists of: ",bitcoin.shape[0], " rows.","\n")
 print("The following overview shows the type of each feature in the datasets: ","\n")
 print(bitcoin.info())
 ```
-![Picture1](Overall_information_about_the_data.PNG)
+
+
