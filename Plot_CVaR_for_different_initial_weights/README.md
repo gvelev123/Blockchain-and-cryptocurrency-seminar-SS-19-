@@ -11,10 +11,10 @@ Author: Georg Velev, Iliyana Pekova
 
 Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 
-Output: 'plot_CVaR_for_different_initial_weights in .PNG format'
+Output: 'plot in .PNG format'
 ```
 
-![Picture1](plot_CVaR_for_different_initial_weights.PNG)
+![Picture1](plot.PNG)
 
 
 ### MATLAB code
