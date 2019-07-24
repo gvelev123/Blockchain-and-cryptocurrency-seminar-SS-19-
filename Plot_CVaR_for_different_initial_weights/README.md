@@ -1,17 +1,17 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ```yaml
-Name of QuantLet: Plotting the CVaR for the different sets of initial weights
+Name of QuantLet: Plot CVaR for the different initial weights
 
-Description: 'Varying all combinations of initial weights to determine which one leads to a minimal CVaR'
+Description: 'Plotting the CVaR for all sets of different initial weights'
 
-Keywords: initial weights, combinations, minimal CVaR
+Keywords: plot, CVaR, all sets of initial weights
 
 Author: Georg Velev, Iliyana Pekova
 
 Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 
-Output: 'initial_weights in .PNG format'
+Output: 'plot_CVaR_for_different_initial_weights in .PNG format'
 ```
 
 ![Picture1](plot_CVaR_for_different_initial_weights.PNG)
