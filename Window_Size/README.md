@@ -14,7 +14,7 @@ Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
 Output: 'Barplot_Window_Size in .PNG format'
 ```
 
-![Picture1](Split_sequence.PNG)
+![Picture1](Barplot_Window_Size.PNG)
 
 
 ### Python Code
