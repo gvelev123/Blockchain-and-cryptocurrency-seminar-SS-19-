@@ -16,6 +16,8 @@ Output: 'Split_sequence in .PNG format'
 
 ```
 
+![Picture1](Split_sequence.PNG)
+
 ### Python Code
 ```python
 import numpy as np
@@ -61,4 +63,3 @@ for i in range(len(X_train_a)):
 
 ```
 
-![Picture1](Split_sequence.PNG)
