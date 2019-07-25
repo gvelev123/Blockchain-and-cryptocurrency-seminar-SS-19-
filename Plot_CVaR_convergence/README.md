@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Plot CVaR convergence
 
+Published in: 'DEDA Class'
+
 Description: 'Plotting the CVaR for all sets of different initial weights and see it converging'
 
 Keywords: plot, CVaR, convergence, all sets of initial weights
