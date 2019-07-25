@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Window-Size
 
+Published in: 'DEDA Class'
+
 Description: 'Select the optimal window-size for the training of the LSTM'
 
 Keywords: window_size, optimal, LSTM
