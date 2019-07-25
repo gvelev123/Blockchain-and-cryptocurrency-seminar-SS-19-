@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Data Analysis
 
+Published in: 'DEDA Class'
+
 Description: 'Analyse the hourly returns of the collected data of the four coins.'
 
 Keywords: data, analysis
