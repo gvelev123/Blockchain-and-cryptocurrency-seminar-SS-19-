@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Plot CVaR for the different initial weights
 
+Published in: 'DEDA Class'
+
 Description: 'Plotting the CVaR for all sets of different initial weights'
 
 Keywords: plot, CVaR, all sets of initial weights
