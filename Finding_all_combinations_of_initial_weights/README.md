@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Finding all combinations of initial weights
 
+Published in: 'DEDA Class'
+
 Description: 'Finding all possible combinations of initial weights for a four-cryptocurrencies-portfolio'
 
 Keywords: initial weights, combinations
