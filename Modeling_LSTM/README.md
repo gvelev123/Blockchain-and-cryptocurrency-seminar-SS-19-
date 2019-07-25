@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Parameter Tuning of LSTM
 
+Published in: 'DEDA Class'
+
 Description: 'Define a parameter grid for the LSTM and choose the optimal set of parameters that leads to a minimal
               root-mean-squared error.'
 
