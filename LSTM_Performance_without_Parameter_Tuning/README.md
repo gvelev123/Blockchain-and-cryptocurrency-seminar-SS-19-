@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Performance of LSTM without Parameter Tuning
 
+Published in: 'DEDA Class'
+
 Description: 'Training the LSTM on the data of one of the Coins (ETH) and analysing the results on the test set without
               parameter tuning.'
 
