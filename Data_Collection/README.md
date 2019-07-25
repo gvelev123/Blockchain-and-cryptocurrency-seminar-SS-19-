@@ -3,6 +3,8 @@
 ```yaml
 Name of QuantLet: Data Collection
 
+Published in: 'DEDA Class'
+
 Description: 'Retrieval of cryptocurrncy data via API call.'
 
 Keywords: cryptocurrency, data, retrieval, analysis, API call
