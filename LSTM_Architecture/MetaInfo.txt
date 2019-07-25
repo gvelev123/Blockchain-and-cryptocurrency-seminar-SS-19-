@@ -1,5 +1,7 @@
 Name of QuantLet:   Long short-term memory (LSTM) Neural Network: Architecture
 
+Published in:       'DEDA Class'
+
 Description:        'Definition of the architecture of the LSTM that is used for the time-series prediction of the hourly returns.'
 
 Keywords:           LSTM, architecture, time-series, prediction
