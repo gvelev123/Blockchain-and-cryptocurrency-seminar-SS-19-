@@ -4,6 +4,8 @@
 ```yaml
 Name of QuantLet: Varying the initial weights
 
+Published in: 'DEDA Class'
+
 Description: 'Varying all combinations of initial weights to determine which one leads to a minimal CVaR'
 
 Keywords: initial weights, combinations, minimal CVaR
