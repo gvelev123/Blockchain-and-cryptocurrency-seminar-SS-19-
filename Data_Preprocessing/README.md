@@ -4,6 +4,8 @@
 ```yaml
 Name of QuantLet: Data Preprocessing
 
+Published in: 'DEDA Class'
+
 Description: 'Preprocessing the cryptocurrency data in such a way that it fits the requirements of LSTM'
 
 Keywords: cryptocurrency, data, preprocessing
