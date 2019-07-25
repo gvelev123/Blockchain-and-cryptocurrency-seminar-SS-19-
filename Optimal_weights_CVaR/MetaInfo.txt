@@ -1,5 +1,7 @@
 Name of QuantLet:  Optimal weights and minimal CVaR
 
+Published in:      'DEDA Class'
+
 Description:       'Determining which the optimal portfolio weights are and what CVaR they result into'
 
 Keywords:          optimal weights, minimal CVaR
